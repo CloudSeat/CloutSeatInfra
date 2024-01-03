@@ -53,7 +53,7 @@ permissions:
 
 jobs:
   terraform:
-    name: 'Terraform'
+    name: 'Terraform-staging'
     runs-on: ubuntu-latest
     environment: staging
 
