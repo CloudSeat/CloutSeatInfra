@@ -42,11 +42,11 @@
 #       with:
 #         cli_config_credentials_token: ${{ secrets.TF_API_TOKEN }}
 
-name: 'Terraform'
+name: 'Terraform-Prod'
 
 on:
   push:
-    tags: [ 'v*.*.*' ]
+    tags: [ 'v*.*.*-prod' ]
 
 permissions:
   contents: read
