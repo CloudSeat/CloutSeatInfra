@@ -1,2 +1,2 @@
 # CloutSeatInfra
-Cloud Seat Infra!
+Cloud Seat Infra
