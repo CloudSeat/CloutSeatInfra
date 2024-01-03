@@ -47,7 +47,6 @@ name: 'Terraform'
 on:
   push:
     tags: [ 'v*.*.*' ]
-  pull_request:
 
 permissions:
   contents: read
