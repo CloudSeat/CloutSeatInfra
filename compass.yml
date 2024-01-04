@@ -1,0 +1,16 @@
+name: CloutSeatInfra
+id: ari:cloud:compass:707956e4-9a53-4de1-9486-8da34cc42d43:component/094b78fa-a706-4074-becd-dafa21ab47b7/21a70347-082b-4195-bc72-51b22fccb360
+description: Cloud Seat Infra
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/CloudSeat/CloutSeatInfra
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
